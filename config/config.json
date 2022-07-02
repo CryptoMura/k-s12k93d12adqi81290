@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd253cD20067eBD9bc6863A69896d2FfbED714E1A",
+  "SCAN_LINK": "https://etherscan.io/token/0xd253cD20067eBD9bc6863A69896d2FfbED714E1A",
+  "NETWORK": {
+    "NAME": "Ether",
+    "SYMBOL": "eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Mansion Club",
+  "SYMBOL": "MC",
+  "MAX_SUPPLY": 20000,
+  "WEI_COST": 38000000000000000,
+  "DISPLAY_COST": 0.038,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
